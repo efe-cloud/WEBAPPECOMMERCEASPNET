@@ -1,0 +1,55 @@
+﻿/* Custom layout styles */
+
+/* Dark navbar brand tweak */
+.navbar-brand {
+    white-space: normal;
+    word-break: break-all;
+}
+
+/* Adjust link hover color for dark background */
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #ddd;
+}
+
+/* Remove default bootstrap link color overrides if you want a consistent look */
+a {
+    text-decoration: none;
+}
+
+/* Footer tweaks */
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 20px;
+}
+
+/* Card improvements if needed */
+.card {
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 0.25rem 0.75rem rgba(0,0,0,0.05);
+}
+
+/* Buttons */
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+    .btn-primary:hover {
+        background-color: #155a95;
+        border-color: #144b7c;
+    }
+
+/* General spacing/padding helpers */
+.mb-5 {
+    margin-bottom: 3rem !important;
+}
+
+.py-3 {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
