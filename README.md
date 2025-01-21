@@ -2,7 +2,13 @@
 
 A **.NET 8** MVC web application demonstrating a multi-layered architecture with **Entity Framework Core**, **ASP.NET Core Identity**, **PostgreSQL** (via Npgsql), and **Stripe** integration for payment processing.
 
-> **Note**: Throughout this README, you will see folders labeled as `project_name` or `solution_file.*`. Please adapt them to your actual project/solution names as needed.
+---
+## Project Demo
+
+Click the image below to watch the demo video:
+
+[![Project Demo](https://img.youtube.com/vi/u_TuI90GZug/0.jpg)](https://www.youtube.com/watch?v=u_TuI90GZug)
+
 
 ---
 
